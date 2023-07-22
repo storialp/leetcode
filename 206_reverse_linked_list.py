@@ -17,4 +17,3 @@ class Solution:
             r = original_next
         return l
             
-            
